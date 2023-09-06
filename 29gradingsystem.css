@@ -1,0 +1,42 @@
+.input{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+    padding-top: 20px;
+    width: 400px;
+
+}
+.eng{
+    width: 300px;
+    height: 25px;
+}
+.mat{
+    width: 300px;
+    height: 25px;
+}
+.phy{
+    width: 300px;
+    height: 25px;
+}
+.bio{
+    width: 300px;
+    height: 25px;
+}
+.che{
+    width: 300px;
+    height: 25px;
+}
+body{
+    background-image: url(schoolgirl.webp);
+    background-size: cover;
+}
+.btn{
+    background-color: gray;
+    border-radius: 15px;
+    height: 35px;
+    width: 60px;
+}
+.result{
+    margin-top: 50px;
+    font-size: 20px;
+}
